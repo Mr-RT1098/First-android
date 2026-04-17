@@ -1,2 +1,2 @@
 # First-android
-My first android project
+Still learning and working on it
